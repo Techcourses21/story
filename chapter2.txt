@@ -1,1 +1,1 @@
-Hey! i'm learning about git and version control.
+Hey! i'm learning about git and version control. its nice learning about github
